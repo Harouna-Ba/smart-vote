@@ -22,6 +22,7 @@ voteOf : mapping(address => uint256)
 Trace publique du choix de chaque adresse.
 
 Utile pour audit et transparence.
+[Tcache 2 _  Analyste _ Spécifications.pdf](https://github.com/user-attachments/files/21916532/Tcache.2._.Analyste._.Specifications.pdf)
 
 Pour préserver l’anonymat, une évolution possible serait un système commit-reveal (v2).
 
